@@ -1,4 +1,4 @@
-# url-shortner
+# Real time chatting app
 🔧 Project: Real-Time Chatting App
 Tech Stack: Node.js, Express.js, Socket.IO, MongoDB, EJS
 
